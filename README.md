@@ -6,9 +6,9 @@ You can hide it, and if you want to really log-in to twitter, use the check box 
 
 ### Features
 
-- Hide/Show the bottom login banner in twitter.com
+- Hide/Show the bottom login banner in https://www.twitter.com
 - Persist this setting across browser restarts
-- Hide/Show state synchronize across different tabs and windows where twitter.com is open ON THE SAME DEVICE 
+- Hide/Show state is synchronized across different tabs and windows where twitter.com is open ON THE SAME DEVICE 
 
 ### How to Install
 
