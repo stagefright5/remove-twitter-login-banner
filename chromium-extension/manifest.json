@@ -15,5 +15,10 @@
             "js": ["scripts/content.js"],
             "matches": ["https://twitter.com/*"]
         }
-    ]
+    ],
+    "action": {
+        "default_title": "Click to toggle login banner",
+        "default_popup": "popup/index.html"
+    },
+    "permissions": ["tabs", "storage"]
 }
