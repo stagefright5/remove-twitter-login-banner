@@ -4,6 +4,12 @@ Do you get annoyed when twitter shows a bottom banner when you are not logged in
 This extension is just for that.
 You can hide it, and if you want to really log-in to twitter, use the check box in the extension pop up to unhide (show) it.
 
+### Features
+
+- Hide/Show the bottom login banner in twitter.com
+- Persist this setting across browser restarts
+- Hide/Show state synchronize across different tabs and windows where twitter.com is open ON THE SAME DEVICE 
+
 ### How to Install
 
 #### Locally:  
