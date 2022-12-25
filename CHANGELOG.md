@@ -1,4 +1,4 @@
-# Remove Twiiter Login Banner
+# Remove Twitter Login Banner
 
 ## 0.0.1
 
