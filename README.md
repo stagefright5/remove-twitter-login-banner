@@ -4,13 +4,12 @@ Do you get annoyed when twitter shows a bottom banner when you are not logged in
 This extension is just for that.
 You can hide it, and if you want to really log-in to twitter, use the check box in the extension pop up to unhide (show) it.
 
-### Features
-
-- Hide/Show the bottom login banner in https://www.twitter.com
-- Persist this setting across browser restarts
-- Hide/Show state is synchronized across different tabs and windows where twitter.com is open ON THE SAME DEVICE 
-
 ### How to Install
+
+#### From Chrome Web Store
+
+- Visit [Chrome Web Store Link](https://chrome.google.com/webstore/detail/toggle-twitter-login-bann/knepanacipkghjjodojlhlapdcloaipj?hl=en&authuser=2)
+- Click `Add to Chrome` button
 
 #### Locally:  
 
@@ -23,7 +22,14 @@ If you prefer to install locally
 5. Click on "Load Unpacked"
 6. Select the "chromium extension" within this repo from the file picker
 
-#### Pictures:
+### Features
+
+- Hide/Show the bottom login banner in https://www.twitter.com
+- Persist this setting across browser restarts
+- Hide/Show state is synchronized across different tabs and windows where twitter.com is open ON THE SAME DEVICE 
+
+### Pictures:
+
 1. When the banner is NOT hidden
 ![Screenshot (19) - 1](https://user-images.githubusercontent.com/15051871/209400766-0bb43c59-4f41-40bf-84c5-08538c7b65c3.png)
 
